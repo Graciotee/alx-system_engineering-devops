@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 744 betty
+chmod 744 hello
