@@ -1,2 +1,2 @@
-file --magic-file=magic input 
-input: School data
+#!/bin/bash
+!:mime School
